@@ -8,6 +8,16 @@
 </p>
 
 ## About Laravel
+Proyecto Examen final de cliente servidor
+by: Juan Ignacio López Zepeda
+
+Datos:
+Grupo: 3522IS
+Carrera: Ingenieria de software
+Link del video: 
+Link del dominio: http://examenyeoman.herokuapp.com/index
+Link de la API: https://genderize.io/
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
